@@ -20,10 +20,13 @@ Below instructions will help you to run this project on your local machine.
 
     Run the below command in terminal 
     
-    $ git clone https://github.com/poojakh1/PersonDetails.git
-    $ cd PersonDetails
+    $ git clone https://github.com/poojakh1/Persons.git
+    $ cd Persons
     $ mvn package
     $ mvn spring-boot:run
+
+    To run attached jar file, run below command in terminal
+    java - jar PersonDetails-0.0.1-SNAPSHOT.jar
 
 ## Test
 
